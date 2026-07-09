@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
