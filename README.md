@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
