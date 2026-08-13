@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aksharasingla/leetcode_submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
