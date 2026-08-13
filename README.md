@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
