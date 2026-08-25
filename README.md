@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
