@@ -10,15 +10,11 @@ public:
             mp.insert(nums[i]);
 
         }
-        int i = 0;
 
-        for( auto i : mp){
-
-        if(mp.find(k) != mp.end()){
+        while( mp.find(k) != mp.end() ){
 
             k += temp;
-            
-        }
+
 
         }
 
