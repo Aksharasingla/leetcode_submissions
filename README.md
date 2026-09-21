@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
@@ -131,8 +133,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aksharasingla/leetcode_submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
