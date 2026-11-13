@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -66,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aksharasingla/leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aksharasingla/leetcode_submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
